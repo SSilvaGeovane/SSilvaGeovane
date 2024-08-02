@@ -1,3 +1,4 @@
+#
 - <h3>👋 Hi, I’m Silva, Geovane! </h3>
 - 👀 I’m interested in all things...
 - 🌱 Currently studying Data Sciences...
@@ -15,15 +16,20 @@
 </div>
 
 ##
+##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSilvaGeovane)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/SSilvaGeovane/SSilvaGeovane/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/SSilvaGeovane">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SSilvaGeovane&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSilvaGeovane&layout=compact&langs_count=16&theme=darcula"/>
 </div>
-  
+
+##
+##
+##
+
 <div stile="display": inline_block"><br>
 <img aligin="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 <img aligin="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
