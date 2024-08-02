@@ -5,8 +5,9 @@
 - 💞️ I'm looking to form collaborative study groups in programming and electronics...
 - ⚡ Fun fact: I still don't know anything!...
 - 🛠️ I'm currently a mechanic...
-
+  
 ##
+
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,8 +18,6 @@
 
 ##
 ##
-
-![Snake animation](https://github.com/SSilvaGeovane/SSilvaGeovane/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/SSilvaGeovane">
@@ -40,4 +39,4 @@
 </div>
 
 ##
-
+<div ![Snake animation](https://github.com/SSilvaGeovane/SSilvaGeovane/blob/output/github-contribution-grid-snake.svg)>
