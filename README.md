@@ -39,4 +39,7 @@
 </div>
 
 ##
-<div ![Snake animation](https://github.com/SSilvaGeovane/SSilvaGeovane/blob/output/github-contribution-grid-snake.svg)>
+<div
+<a href="https://github.com/SSilvaGeovane/SSilvaGeovane/blob/output/github-contribution-grid-snake.svg)">
+<img height="180em" src="https://github.com/users/SSilvaGeovane/achievements/pull-shark" />
+</div>
